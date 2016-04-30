@@ -1,6 +1,6 @@
-Diapositiva 1 - Unidad 2
+# Diapositiva 1 - Unidad 2
 
-# Mejora de procesos
+## Mejora de procesos
 
 Son las actividades realizadas con el fin de cambiar la forma de funcionamiento de un sistema, para mejorar la satisfacción de los clientes, la calidad del producto y/o servicio, la rentabilidad, el posicionamiento/imagen y reducir riesgos.
 
@@ -13,7 +13,7 @@ El concepto de mejora parte de la premisa de que el diseño del sistema está 
 
 El análisis realizado, debe mostrar hasta que punto las relaciones con otros sistemas pueden verse modificadas.
 
-## Actividades
+#### Actividades
 
 - Establecer objetivos: Mejorar tiene un costo y hacerlo debe generar un impacto directo en los resultados. Los objetivos deben ser cuantificables.
 - Analizar el estado actual: para definir cuáles son los problemas y cuál es el nivel de cambio requerido.
@@ -23,11 +23,11 @@ El análisis realizado, debe mostrar hasta que punto las relaciones con otros s
 - Implementar el cambio: capacitar al personal, brindar soporte.
 - Monitorear lo implementado
 
-## Resistencia al Cambio
+#### Resistencia al Cambio
 
 Si no se gestionan adecuadamente, pueden suponer una barrera significativa que limita el éxito de la implantación de los cambios.
 
-## Cruzando el Abismo
+#### Cruzando el Abismo
 
 1. Innovadores: son entusiastas de la tecnología. Les agrada ser los primeros en disponer de algo nuevo.
 2. Adoptantes Tempranos: ven en las tecnologías avanzadas oportunidades estratégicas.
@@ -35,7 +35,7 @@ Si no se gestionan adecuadamente, pueden suponer una barrera significativa que l
 4. Mayoría Tardía: requieren que se les muestre los beneficios potenciales y los riesgos. Necesitan mucho apoyo. No se manifiestan favorables a los cambios hasta que la mayoría lo haya hecho, la presión de sus pares es lo que los motiva para su adopción.
 5. Rezagados: no están interesados en el cambio, tienen que ser arrastrados.
 
-# Productos Completos
+## Productos Completos
 
 Es un concepto utilizado para ayudar a individuos y grupos a anticipar las necesidades de los adoptantes para aceptar cambios en los procesos nuevos o ya existentes. Incluyen:
 
@@ -46,11 +46,11 @@ Es un concepto utilizado para ayudar a individuos y grupos a anticipar las neces
 - Lecciones aprendidas
 - Mecanismos de Transición
 
-## Mecanismos de Transición
+#### Mecanismos de Transición
 
 Medio por el que la información, procedimientos y experiencias, son comunicados. La primer categoría es la difusión de la información, la segunda categoría la constituye la implementación de los cambios, donde el objetivo es modificar actitudes o comportamientos.
 
-# Curva de Grado de Compromiso
+## Curva de Grado de Compromiso
 
 Comprender donde están las personas en la curva, puede ayudarnos a identificar y soportar sus necesidades y ayudarlos a adaptarse efectivamente al cambio. Hay 6 etapas a lo largo del proceso de cambio:
 

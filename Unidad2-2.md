@@ -1,22 +1,22 @@
-Diapositiva 2 - Unidad 2
+# Diapositiva 2 - Unidad 2
 
-# IDEAL
+## IDEAL
 
 Es un modelo de Mejora de Procesos (SPI)
 
 Reconoce que el perfeccionamiento es necesario en una organización y que se puede lograr con el compromiso y los recursos apropiados para el esfuerzo.
 
-## Problema 1: Adoptantes de tecnología
+#### Problema 1: Adoptantes de tecnología
 
 - Tienen dificultades para seleccionar entre las posibilidades de mejora.
 - Frecuentemente no se usan las mejores prácticas de transición para introducir las mejoras.
 
-## Problema 2: Desarrolladores de tecnología
+#### Problema 2: Desarrolladores de tecnología
 
 - Tienen dificultades para comprender los inconvenientes con que se encontrarán los potenciales adoptantes.
 - No proveen suficiente información o servicios para soportar los procesos de adopción.
 
-# Etapas
+## Etapas
 
 1. Iniciar: Fija los fundamentos para un esfuerzo exitoso de mejora.
 

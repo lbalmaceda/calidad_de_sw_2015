@@ -1,16 +1,16 @@
-Diapositiva 3 - Unidad 2
+# Diapositiva 3 - Unidad 2
 
-# Procesos y Procedimientos:
+## Procesos y Procedimientos:
 
-## Procedimiento
+#### Procedimiento
 
 Un Procedimiento define "cómo" hacer la tarea, el paso a paso.
 
-## Proceso
+#### Proceso
 
 Conocimiento organizacional compartido y en continuo crecimiento. Define "qué" necesita ser hecho y cuáles son los roles que están involucrados. Los procesos pueden ser Formales (definidos y repetibles) e Informales (no repetibles).
 
-### Un proceso formal:
+###### Un proceso formal:
 
 - Favorece la comunicación, base para capacitación y entrenamiento
 - Permite la independencia de la persona.
@@ -21,7 +21,7 @@ Conocimiento organizacional compartido y en continuo crecimiento. Define "qué"
 
 > El proceso debe ser entendible por quienes deben aplicarlo y acorde a la realidad de la empresa.
 
-## Qué elementos componen un proceso?
+#### Qué elementos componen un proceso?
 
 - Identificador unívoco
 - Nombre

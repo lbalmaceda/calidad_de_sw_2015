@@ -1,6 +1,6 @@
-Diapositiva 1 - Unidad 5
+# Diapositiva 1 - Unidad 5
 
-# Metodologías AGILES
+## Metodologías AGILES
 
 Se basan en el manifiesto ágil, intentando valorar:
 
@@ -9,14 +9,14 @@ Se basan en el manifiesto ágil, intentando valorar:
 - La colaboración con el cliente, por encima de la negociación contractual.
 - La respuesta al cambio, por encima del seguimiento de un plan.
 
-## Ciclo de Mejora Continua de Deming (PDCA)
+#### Ciclo de Mejora Continua de Deming (PDCA)
 
 1. **[Plan]** Planificar cómo conseguir unos objetivos.
 2. **[Do]** Ejecutar esta planificación.
 3. **[Check]** Verificar los resultados conseguidos.
 4. **[Act]** Definir acciones correctivas a realizar en el siguiente ciclo para mejorar los resultados.
 
-## Integración con Estándares de Calidad
+#### Integración con Estándares de Calidad
 
           Agiles            |        Estándares
 :-------------------------: | :-----------------------:
@@ -30,7 +30,7 @@ Retrospectivas periódicas  |      Mejora continua
 Equipos multidisciplinarios |     Responsabilidades
        Autogestión         | Formación y competencias
 
-# SCRUM
+## SCRUM
 
 Es un _framework_ para la gestión ágil de proyectos en el que se aplican buenas prácticas para trabajar colaborativamente en equipo, y obtener el mejor resultado posible. Busca maximizar la ganancia sobre la inversión de trabajo. Sus bases son:
 
@@ -40,7 +40,7 @@ Es un _framework_ para la gestión ágil de proyectos en el que se aplican bue
 - Al equipo se le otorga la autoridad necesaria para organizar su trabajo.
 - Comunicación en el equipo y con el cliente.
 
-## Elementos
+#### Elementos
 
 - Product Backlog: Representa la visión y expectativas del cliente respecto a objetivos y entregas del producto o proyecto.
 - Sprint Backlog: Alcance definido para un determinado Sprint.
@@ -55,7 +55,7 @@ Es un _framework_ para la gestión ágil de proyectos en el que se aplican bue
 - Sprint Review (Demostración): El equipo presenta los objetivos del Sprint, el alcance acordado y muestra los resultados.
 - Sprint Retrospective (Retrospectiva): Qué se hizo bien, qué se podría haber hecho mejor, cómo se puede mejorar en el siguiente Sprint.
 
-## Roles
+#### Roles
 
 - Product Owner (Cliente): Responsable de asegurar que la funcionalidad priorizada, desarrollada e implementada satisfaga las necesidades del negocio.
 - Scrum Master: Responsable de asegurar que el proceso de trabajo se usa y es entendido por todos.

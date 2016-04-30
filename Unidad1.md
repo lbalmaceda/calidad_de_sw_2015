@@ -1,6 +1,6 @@
-Diapositiva 1 - Unidad 1
+# Diapositiva 1 - Unidad 1
 
-# Calidad de Proceso/Producto
+## Calidad de Proceso/Producto
 
 La calidad del proceso/producto depende directamente de las personas, procedimientos y tecnología.
 
@@ -14,19 +14,19 @@ Hay métodos para actividades relacionadas con los servicios, tales como ITIL.
 
 Y técnicas de mejora como Lean, Seis Sigma y la Teoría de las Limitaciones.
 
-# CMMI for Development
+## CMMI for Development
 
 Foco en la mejora de la calidad del desarrollo de productos
 
-# CMMI for Acquisition
+## CMMI for Acquisition
 
 Provee una guía para la aplicación de las mejores prácticas CMMI.
 
-# CMMI for Services
+## CMMI for Services
 
 Cubren la administración, establecimiento y entrega de servicios.
 
-# SPICE (ISO/IEC 15504)
+## SPICE (ISO/IEC 15504)
 
 Es un modelo para la mejora, evaluación de los procesos de desarrollo, mantenimiento de sistemas de información y productos de software . Utiliza una representación Continua, similar en su esquema a la equivalente de CMMI .
 
@@ -49,7 +49,7 @@ Como todo modelo continuo, usa Niveles de Capacidad:
 
 El ámbito de aplicación de SPICE está orientado a Software y Sistemas, y tiene su propio modelo de evaluación. Como una forma de permitir la relación entre ambos modelos, SCAMPI que es el modelo de evaluación utilizado para CMMI, permite ser utilizado en ISO 15504 con algunos agregados en su parte final.
 
-# OPM 3
+## OPM 3
 
 Es un estándar que asiste a las organizaciones en el mejoramiento de sus capacidades para implementar su estrategia a través de la ejecución de múltiples proyectos. Es un modelo escalable y genérico, aplicable a organizaciones con y sin fines de lucro, de diversos tamaños.
 
@@ -60,7 +60,7 @@ Tiene tres Categorías en las que agrupa cerca de 600 "mejores prácticas de n
 3. Control
 4. Mejora Continua
 
-# Lean
+## Lean
 
 Filosofía de gestión enfocada a la reducción de los 7 tipos de "desperdicios". Eliminando el despilfarro, la calidad mejora y el tiempo de producción y el costo se reducen. 7 Principios:
 
@@ -70,23 +70,23 @@ Filosofía de gestión enfocada a la reducción de los 7 tipos de "desperdici
 4. Flexibilidad: producir rápidamente diferentes mezclas de productos sin sacrificar la eficiencia.
 5. Construcción y mantenimiento de una relación a largo plazo con los proveedores.
 
-# Teoría de las Limitaciones (ToC)
+## Teoría de las Limitaciones (ToC)
 
 Es una filosofía de gestión y mejora, basada en que en todo sistema hay frecuentemente un aspecto que limita su habilidad para alcanzar los objetivos. Para que el sistema logre una mejora significativa, esa limitación debe ser identificada y todo el sistema debe ser gestionado pensando en ella.
 
-# Six Sigma
+## Six Sigma
 
 Nació para establecer estándares de calidad a los procesos de desarrollo de software. En una organización que requiere consistencia en sus procesos, Six Sigma puede ayudar a promover la consolidación de los mismos.
 
 Además para aquellas organizaciones que requieran optimizar sus procesos, puede ser empleado como un mecanismo de refinamiento.
 
-# Esquema TSP/PSP
+## Esquema TSP/PSP
 
 - CMMI mejora las capacidades de la organización (su foco está en la gestión)
 - TSP mejora el funcionamiento de los equipos (su foco está en el equipo y los productos)
 - PSP mejora las habilidades individuales y la coordinación (su foco está en el personal)
 
-# TSP
+## TSP
 
 Es un conjunto de procesos operacionales definidos, cuyo uso mejora la calidad y la productividad de los equipos. Objectivos:
 
@@ -103,7 +103,7 @@ El pasaje del Nivel 3 al Nivel 4 ha sido reconocido como el más difícil de t
 
 Dado que TSP incluye un uso extensivo de mediciones, su uso tanto acelera el trabajo de definición de procesos del Nivel 3 como evita la necesidad de reescribir esos procesos cuando se mueve al Nivel 4.
 
-# PSP
+## PSP
 
 Provee Ingenieros con un marco de trabajo personal disciplinado para la realización de tareas de software. Consiste en un conjunto de métodos, formas y documentos que indican a los ingenieros como planear, medir y administrar su trabajo.
 
@@ -114,11 +114,11 @@ Cuando se utiliza junto con TSP se ha demostrado su efectividad en permitir a lo
 - Para generar productos de calidad, deberán hacerse responsables personalmente por la calidad de sus productos.
 - Es menos costoso encontrar y solucionar los defectos en la etapa temprana.
 
-# ITIL
+## ITIL
 
 Son "mejores prácticas" para facilitar la entrega de servicios de informática. Está conformado sobre una visión orientada a procesos.
 
-# Agile
+## Agile
 
 Nacen con el "Manifiesto para el desarrollo ágil del software", que tiene 12 principios para valorizar:
 
@@ -131,7 +131,7 @@ La documentación sólo es útil si aporta valor al producto. El cliente es p
 
 Las metodologías Ágiles proveen el cómo desarrollar software, mientras que CMMI provee las prácticas de Ingeniería de Sistemas requeridas en proyectos importantes de alto riesgo. CMMI también brinda dirección de procesos y prácticas de soporte que ayudan al diseño y a la mejora continua del despliegue de Agile.
 
-# Diferencias entre las ideas base de CMMI y Agile
+## Diferencias entre las ideas base de CMMI y Agile
 
 - Foco de atención: CMMI se enfoca en la empresa, Agile en el proyecto y los equipos.
 - Perspectiva: CMMI asume una vista de largo plazo, Agile asume una visión de corto/mediano plazo.

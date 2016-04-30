@@ -1,6 +1,6 @@
-Diapositiva 1 - Unidad 3
+# Diapositiva 1 - Unidad 3
 
-# ARC
+## ARC
 
 Define los requerimientos considerados esenciales para métodos de evaluación que se utilizan con modelos CMMI. Adicionalmente, se define un conjunto de clases de evaluación.
 
@@ -20,7 +20,7 @@ Los principios de evaluación para el conjunto de productos CMMI son:
 
 > ARC cubre todos los requerimientos de evaluación del método 15504-3 (SCAMPI)
 
-## Clases de evaluación (A-B-C)
+#### Clases de evaluación (A-B-C)
 
 La diferencia entre las clases de evaluación A, B y C son:
 
@@ -34,11 +34,11 @@ Los métodos de Clase B cubren un subconjunto de los requerimientos ARC. No pro
 
 Los métodos de Clase C cubren un subconjunto de los requerimientos ARC para un método de Clase B. Se recomiendas para tener una "visión rápida" o para auto evaluaciones periódicas por grupos de soporte de la organización.
 
-# SCAMPI
+## SCAMPI
 
 Provee índices de comparación de calidad relativos a los modelos CMMI.
 
-## SCAMPI A
+#### SCAMPI A
 
 Es una herramienta de diagnóstico que alienta la mejora de los procesos, identificando fortalezas y debilidades. Satisface todos los requerimientos de ARC para un método de Clase A y puede soportar la conducción de evaluaciones de ISO/IEC 15504 (SPICE).
 
@@ -49,12 +49,12 @@ El método permite a un patrocinador:
 - Poner el foco en las mejoras que resultan más beneficiosas para la organización.
 - Obtener índices de valoración de niveles de capacidad, además de índices de niveles de madurez.
 
-### Objetivos
+###### Objetivos
 
 1. Proveer un método común e integrado de evaluación, que sea capaz de soportar evaluaciones en el contexto de mejora interna de procesos, selección de proveedores y monitoreo de procesos.
 2. Proveer un método de evaluación eficiente que pueda ser implementado con un nivel razonable de restricciones de ejecución.
 
-### Etapa de Recolección y Análisis de Datos
+###### Etapa de Recolección y Análisis de Datos
 
 Prevee 2 tipos de evidencia objetiva:
 
@@ -63,7 +63,7 @@ Prevee 2 tipos de evidencia objetiva:
 
 Los equipos de evaluación están obligados a buscar evidencia objetiva, antes de formular caracterizaciones de la implementación de las prácticas. Para esto el método define reglas acerca de la importancia de los datos que deben colectarse para cada uno de los tipos de indicadores.
 
-### Metodología
+###### Metodología
 
 1. Planeamiento y Preparación: Analizar los objetivos del patrocinador y definir requerimientos. Con cada fase, la iteración decrece a medida que los datos son recolectados, analizados, refinados y trasladados a conclusiones. Es importante organizar la documentación de evidencia objetiva para aliviar la evaluación.
 2. Conducción de la evaluación: El equipo de evaluación recolecta datos para juzgar la extensión con que el modelo está implementado. El alcance de la recolección está determinado por el modelo CMMI y el patrocinador.
@@ -71,7 +71,7 @@ Los equipos de evaluación están obligados a buscar evidencia objetiva, antes
 
 > SCAMPI A requiere que la fase 2 sea completada dentro de los 90 días.
 
-## SCAMPI B y C
+#### SCAMPI B y C
 
 - SCAMPI A (Institucionalización): tiene estándares rigurosos para la recolección de datos y para la identificación y cobertura de la unidad organizacional.
 - SCAMPI B (Despliegue): mantiene alguno de los requerimientos para recolección de datos pero provee estándares más flexibles para realizar un muestreo de la organización.
