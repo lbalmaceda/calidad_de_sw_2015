@@ -1,4 +1,4 @@
-# Diapositiva 1 - Unidad 5
+# Unidad 5 - 1
 
 ## Metodologías AGILES
 
@@ -18,17 +18,17 @@ Se basan en el manifiesto ágil, intentando valorar:
 
 ### Integración con Estándares de Calidad
 
-          Agiles            |        Estándares
-:-------------------------: | :-----------------------:
-     Valor al Cliente       | Satisfacción del Cliente
-    Iteraciones cortas      |    Calidad del proceso
-  Entregables funcionando   |   Calidad del producto
-  Conocimiento colectivo    |  Conocimiento compartido
- Niveles de planificación  |      Planificación
-Retrospectivas periódicas  |      Mejora continua
-     Foco en la gente       |     Recursos Humanos
-Equipos multidisciplinarios |     Responsabilidades
-       Autogestión         | Formación y competencias
+|          Agiles            |        Estándares        |
+|:-------------------------: | :-----------------------:|
+|     Valor al Cliente       | Satisfacción del Cliente|
+|    Iteraciones cortas      |    Calidad del proceso|
+|  Entregables funcionando   |   Calidad del producto|
+|  Conocimiento colectivo    |  Conocimiento compartido|
+| Niveles de planificación  |      Planificación|
+|Retrospectivas periódicas  |      Mejora continua|
+|     Foco en la gente       |     Recursos Humanos|
+|Equipos multidisciplinarios |     Responsabilidades|
+       |Autogestión         | Formación y competencias|
 
 ## SCRUM
 
