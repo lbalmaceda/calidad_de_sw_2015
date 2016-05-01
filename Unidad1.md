@@ -4,19 +4,19 @@
 
 La calidad del proceso/producto depende directamente de las personas, procedimientos y tecnología.
 
-- Producto: cualquier entregable producido como resultado de un proceso
+- Producto: Cualquier entregable producido como resultado de un proceso.
 - Verificación: Control de que lo que se hizo, se hizo bien.
 - Validación: Control de adherencia del producto de software, a las especificaciones.
 
-Ejemplos de métodos actuales de desarrollo de software, son las Metodologías Ágiles (XP, SCRUM y otras)
+Ejemplos de métodos actuales de _desarrollo de software_, son las Metodologías Ágiles (XP, SCRUM y otras)
 
-Hay métodos para actividades relacionadas con los servicios, tales como ITIL.
+Hay métodos para actividades relacionadas con los _servicios_, tales como ITIL.
 
-Y técnicas de mejora como Lean, Seis Sigma y la Teoría de las Limitaciones.
+Y _técnicas de mejora_ como Lean, Seis Sigma y la Teoría de las Limitaciones.
 
 ## CMMI for Development
 
-Foco en la mejora de la calidad del desarrollo de productos
+Foco en la mejora de la calidad del desarrollo de productos.
 
 ## CMMI for Acquisition
 
@@ -28,9 +28,9 @@ Cubren la administración, establecimiento y entrega de servicios.
 
 ## SPICE (ISO/IEC 15504)
 
-Es un modelo para la mejora, evaluación de los procesos de desarrollo, mantenimiento de sistemas de información y productos de software . Utiliza una representación Continua, similar en su esquema a la equivalente de CMMI .
+Es un modelo para la mejora, evaluación de los procesos de desarrollo, mantenimiento de sistemas de información y productos de software . Utiliza una Representación Continua, similar en su esquema a la equivalente de CMMI.
 
-Ambos modelos son bidimensionales: evalúan tanto los diferentes procesos como los niveles de madurez de cada uno de ellos.
+Ambos modelos son bidimensionales: Evalúan tanto los diferentes procesos como los niveles de madurez de cada uno de ellos.
 
 SPICE utiliza 24 áreas de proceso, que agrupa en tres categorías:
 
@@ -53,7 +53,7 @@ El ámbito de aplicación de SPICE está orientado a Software y Sistemas, y tien
 
 Es un estándar que asiste a las organizaciones en el mejoramiento de sus capacidades para implementar su estrategia a través de la ejecución de múltiples proyectos. Es un modelo escalable y genérico, aplicable a organizaciones con y sin fines de lucro, de diversos tamaños.
 
-Tiene tres Categorías en las que agrupa cerca de 600 "mejores prácticas de negocio", y también 4 Niveles de Madurez:
+Tiene 3 Categorías en las que agrupa cerca de 600 "mejores prácticas de negocio", y también 4 Niveles de Madurez:
 
 1. Estandarización
 2. Medición
@@ -64,11 +64,12 @@ Tiene tres Categorías en las que agrupa cerca de 600 "mejores prácticas de n
 
 Filosofía de gestión enfocada a la reducción de los 7 tipos de "desperdicios". Eliminando el despilfarro, la calidad mejora y el tiempo de producción y el costo se reducen. 7 Principios:
 
-1. Calidad perfecta a la primera: detección y solución de los problemas en su origen.
-2. Minimización del despilfarro: optimización del uso de los recursos escasos.
-3. Mejora continua Procesos "pull": los procesos son solicitados por el cliente, no son empujados por el final de la producción.
-4. Flexibilidad: producir rápidamente diferentes mezclas de productos sin sacrificar la eficiencia.
-5. Construcción y mantenimiento de una relación a largo plazo con los proveedores.
+1. Calidad perfecta a la primera: Detección y solución de los problemas en su origen.
+2. Minimización del despilfarro: Optimización del uso de los recursos escasos.
+3. Mejora continua
+4. Procesos "pull": Los procesos son solicitados por el cliente, no son empujados por el final de la producción.
+5. Flexibilidad: Producir rápidamente diferentes mezclas de productos sin sacrificar la eficiencia.
+6. Construcción y mantenimiento de una relación a largo plazo con los proveedores.
 
 ## Teoría de las Limitaciones (ToC)
 
@@ -86,9 +87,9 @@ Además para aquellas organizaciones que requieran optimizar sus procesos, puede
 - TSP mejora el funcionamiento de los equipos (su foco está en el equipo y los productos)
 - PSP mejora las habilidades individuales y la coordinación (su foco está en el personal)
 
-## TSP
+### TSP
 
-Es un conjunto de procesos operacionales definidos, cuyo uso mejora la calidad y la productividad de los equipos. Objectivos:
+Es un conjunto de procesos operacionales definidos, cuyo uso mejora la calidad y la productividad de los equipos. Objetivos:
 
 - Marco basado en PSP
 - Desarrollar productos en varios ciclos.
@@ -101,9 +102,9 @@ TSP puede ayudar a las organizaciones a cualquier nivel de madurez y que cuanto 
 
 El pasaje del Nivel 3 al Nivel 4 ha sido reconocido como el más difícil de todos los pasos de mejora de CMMI. La razón principal para esta dificultad es que la definición de procesos que muchas organizaciones desarrollan para el Nivel 3, debe ser elaborada de nuevo para incluir la medición de procesos cuando se mueven al Nivel 4.
 
-Dado que TSP incluye un uso extensivo de mediciones, su uso tanto acelera el trabajo de definición de procesos del Nivel 3 como evita la necesidad de reescribir esos procesos cuando se mueve al Nivel 4.
+Dado que TSP incluye un uso extensivo de mediciones, su uso tanto acelera el trabajo de definición de procesos del Nivel 3, como también evita la necesidad de reescribir esos procesos cuando se mueve al Nivel 4.
 
-## PSP
+### PSP
 
 Provee Ingenieros con un marco de trabajo personal disciplinado para la realización de tareas de software. Consiste en un conjunto de métodos, formas y documentos que indican a los ingenieros como planear, medir y administrar su trabajo.
 
@@ -122,16 +123,16 @@ Son "mejores prácticas" para facilitar la entrega de servicios de informátic
 
 Nacen con el "Manifiesto para el desarrollo ágil del software", que tiene 12 principios para valorizar:
 
-1. Los individuos y sus interacciones por sobre procesos y herramientas
-2. El funcionamiento del software por sobre una amplia documentación
-3. La colaboración de los clientes por sobre la negociación de convenios
-4. La respuesta a los cambios por sobre el seguimiento de un plan
+1. Los individuos y sus interacciones, por sobre procesos y herramientas.
+2. El funcionamiento del software, por sobre una amplia documentación.
+3. La colaboración de los clientes, por sobre la negociación de convenios.
+4. La respuesta a los cambios, por sobre el seguimiento de un plan.
 
 La documentación sólo es útil si aporta valor al producto. El cliente es parte del equipo, integrándose y participando como un miembro más.
 
 Las metodologías Ágiles proveen el cómo desarrollar software, mientras que CMMI provee las prácticas de Ingeniería de Sistemas requeridas en proyectos importantes de alto riesgo. CMMI también brinda dirección de procesos y prácticas de soporte que ayudan al diseño y a la mejora continua del despliegue de Agile.
 
-## Diferencias entre las ideas base de CMMI y Agile
+### Diferencias entre las ideas base de CMMI y Agile
 
 - Foco de atención: CMMI se enfoca en la empresa, Agile en el proyecto y los equipos.
 - Perspectiva: CMMI asume una vista de largo plazo, Agile asume una visión de corto/mediano plazo.

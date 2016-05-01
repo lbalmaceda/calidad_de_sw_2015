@@ -6,12 +6,12 @@ Es un modelo de Mejora de Procesos (SPI)
 
 Reconoce que el perfeccionamiento es necesario en una organización y que se puede lograr con el compromiso y los recursos apropiados para el esfuerzo.
 
-#### Problema 1: Adoptantes de tecnología
+### Problema 1: Adoptantes de tecnología
 
 - Tienen dificultades para seleccionar entre las posibilidades de mejora.
 - Frecuentemente no se usan las mejores prácticas de transición para introducir las mejoras.
 
-#### Problema 2: Desarrolladores de tecnología
+### Problema 2: Desarrolladores de tecnología
 
 - Tienen dificultades para comprender los inconvenientes con que se encontrarán los potenciales adoptantes.
 - No proveen suficiente información o servicios para soportar los procesos de adopción.
@@ -32,8 +32,8 @@ Reconoce que el perfeccionamiento es necesario en una organización y que se pue
   1. Se inicia el plan de acción acorde a la visión de la organización.
   2. Se realiza una evaluación de la situación actual acorde a los objetivos de mejora previstos.
   3. Se establece una linea base.
-  4. Esta fase debe identificar las barreras potenciales para el esfuerzo de mejora.
-  5. Definir estado actual y deseado resulta más simple usando un modelo de referencia (ej CMMI) y teniendo los objetivos de negocio alineados a los esfuerzos de cambio.
+  4. Identificar las barreras potenciales para el esfuerzo de mejora.
+  5. Definir el estado actual y deseado resulta más simple usando un modelo de referencia (ej CMMI) y teniendo los objetivos de negocio alineados a los esfuerzos de cambio.
 
 3. Establecer: Planificar cómo se alcanzará la meta.
 

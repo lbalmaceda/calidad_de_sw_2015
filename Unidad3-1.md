@@ -8,29 +8,29 @@ Los modelos de evaluación pueden ser aplicados a diferentes propósitos, incl
 
 Los equipos de evaluación utilizan los modelos CMMI como base para identificar fortalezas y debilidades de los procesos examinados. Los resultados pueden ser usados para:
 
-- Planificar una estrategia de mejoras
-- Generar índices de valoración de niveles de madurez o de niveles de capacidad
+- Planificar una estrategia de mejoras.
+- Generar índices de valoración de niveles de madurez o de niveles de capacidad.
 - Toma de decisiones.
 
 Los principios de evaluación para el conjunto de productos CMMI son:
 
-1. Comenzar con un modelo de evaluación de referencia
-2. Utilizar un proceso formalizado de evaluación
-3. Focalizar en la evaluación de los objetivos de negocios de los patrocinadores
+1. Comenzar con un modelo de evaluación de referencia.
+2. Utilizar un proceso formalizado de evaluación.
+3. Focalizar en la evaluación de los objetivos de negocios de los patrocinadores.
 
-> ARC cubre todos los requerimientos de evaluación del método 15504-3 (SCAMPI)
+> ARC cubre todos los requerimientos de evaluación del método ISO 15504-3 (SCAMPI)
 
-#### Clases de evaluación (A-B-C)
+### Clases de evaluación (A-B-C)
 
 La diferencia entre las clases de evaluación A, B y C son:
 
-- El grado de confianza en los resultados de la evaluación
-- La generación de índices de valoración
-- El costo y la duración de la evaluación
+- El grado de confianza en los resultados de la evaluación.
+- La generación de índices de valoración.
+- El costo y la duración de la evaluación.
 
 Los métodos de Clase A deben satisfacer todos los requerimientos ARC y son al presente los únicos considerados apropiados para proveer índices de valoración, ademas de soportar evaluaciones ISO 15504.
 
-Los métodos de Clase B cubren un subconjunto de los requerimientos ARC. No producen índices de valoración y no pretenden cumplir con la norma ISO 15504\. Se recomiendan para una evaluación inicial/interna, en organizaciones que están comenzando a usar el modelo CMMI en actividades de mejora de procesos.
+Los métodos de Clase B cubren un subconjunto de los requerimientos ARC. No producen índices de valoración y no pretenden cumplir con la norma ISO 15504. Se recomiendan para una evaluación inicial/interna, en organizaciones que están comenzando a usar el modelo CMMI en actividades de mejora de procesos.
 
 Los métodos de Clase C cubren un subconjunto de los requerimientos ARC para un método de Clase B. Se recomiendas para tener una "visión rápida" o para auto evaluaciones periódicas por grupos de soporte de la organización.
 
@@ -38,9 +38,9 @@ Los métodos de Clase C cubren un subconjunto de los requerimientos ARC para un
 
 Provee índices de comparación de calidad relativos a los modelos CMMI.
 
-#### SCAMPI A
+### SCAMPI A
 
-Es una herramienta de diagnóstico que alienta la mejora de los procesos, identificando fortalezas y debilidades. Satisface todos los requerimientos de ARC para un método de Clase A y puede soportar la conducción de evaluaciones de ISO/IEC 15504 (SPICE).
+Es una herramienta de diagnóstico que alienta la mejora de los procesos, identificando fortalezas y debilidades. Satisface todos los requerimientos de ARC para un método de Clase A y puede soportar la conducción de evaluaciones ISO/IEC 15504 (SPICE).
 
 El método permite a un patrocinador:
 
@@ -49,12 +49,12 @@ El método permite a un patrocinador:
 - Poner el foco en las mejoras que resultan más beneficiosas para la organización.
 - Obtener índices de valoración de niveles de capacidad, además de índices de niveles de madurez.
 
-###### Objetivos
+#### Objetivos
 
 1. Proveer un método común e integrado de evaluación, que sea capaz de soportar evaluaciones en el contexto de mejora interna de procesos, selección de proveedores y monitoreo de procesos.
 2. Proveer un método de evaluación eficiente que pueda ser implementado con un nivel razonable de restricciones de ejecución.
 
-###### Etapa de Recolección y Análisis de Datos
+#### Etapa de Recolección y Análisis de Datos
 
 Prevee 2 tipos de evidencia objetiva:
 
@@ -63,7 +63,7 @@ Prevee 2 tipos de evidencia objetiva:
 
 Los equipos de evaluación están obligados a buscar evidencia objetiva, antes de formular caracterizaciones de la implementación de las prácticas. Para esto el método define reglas acerca de la importancia de los datos que deben colectarse para cada uno de los tipos de indicadores.
 
-###### Metodología
+#### Metodología
 
 1. Planeamiento y Preparación: Analizar los objetivos del patrocinador y definir requerimientos. Con cada fase, la iteración decrece a medida que los datos son recolectados, analizados, refinados y trasladados a conclusiones. Es importante organizar la documentación de evidencia objetiva para aliviar la evaluación.
 2. Conducción de la evaluación: El equipo de evaluación recolecta datos para juzgar la extensión con que el modelo está implementado. El alcance de la recolección está determinado por el modelo CMMI y el patrocinador.
@@ -71,11 +71,11 @@ Los equipos de evaluación están obligados a buscar evidencia objetiva, antes
 
 > SCAMPI A requiere que la fase 2 sea completada dentro de los 90 días.
 
-#### SCAMPI B y C
+### SCAMPI B y C
 
-- SCAMPI A (Institucionalización): tiene estándares rigurosos para la recolección de datos y para la identificación y cobertura de la unidad organizacional.
-- SCAMPI B (Despliegue): mantiene alguno de los requerimientos para recolección de datos pero provee estándares más flexibles para realizar un muestreo de la organización.
-- SCAMPI C (Aproximación): aplica estándares menos estrictos en lo relativo a la evidencia de uso.
+- SCAMPI A (Institucionalización): Tiene estándares rigurosos para la recolección de datos y para la identificación y cobertura de la unidad organizacional.
+- SCAMPI B (Despliegue): Mantiene algunos de los requerimientos para recolección de datos pero provee estándares más flexibles para realizar un muestreo de la organización.
+- SCAMPI C (Aproximación): Aplica estándares menos estrictos en lo relativo a la evidencia de uso.
 
 Estos métodos pueden conformar bloques de construcción para una evaluación progresiva de la organización, comenzando con SCAMPI C para revisar las descripciones de procesos, luego con SCAMPI B investigando el despliegue de proyectos y finalmente dirigiendo una comparación formal, focalizada en la institucionalización de las prácticas.
 
